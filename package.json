@@ -1,5 +1,5 @@
 {
-  "name": "@gp/jsutils",
+  "name": "leo-jsutils",
   "version": "1.0.0",
   "description": "js工具",
   "main": "index.js",
